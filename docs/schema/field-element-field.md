@@ -49,7 +49,7 @@ Defines a site column.
   Filterable="TRUE" | "FALSE"
   FilterableNoRecurrence="TRUE" | "FALSE"
   ForcedDisplay="Text"
-  Format="DateOnly | DateTime | TimeOnly | EventList | ISO8601 | MonthDayOnly | MonthYearOnly | ISO8601Basic | ISO8601Gregorian | ISO8601BasicDateOnly | DropDown | RadioButtons | HyperLink | Image | TRUE | FALSE"
+  Format="DateOnly | DateTime | TimeOnly | EventList | ISO8601 | MonthDayOnly | MonthYearOnly | ISO8601Basic | ISO8601Gregorian | ISO8601BasicDateOnly | Dropdown | RadioButtons | HyperLink | Image | TRUE | FALSE"
   FromBaseType="TRUE" | "FALSE"
   Group="Text"
   HeaderImage="Text"
